@@ -1,0 +1,15 @@
+C:\Users\juanc\source\repos\desafio4 S6\bin\Debug\net6.0\desafio4 S6.exe
+C:\Users\juanc\source\repos\desafio4 S6\bin\Debug\net6.0\desafio4 S6.deps.json
+C:\Users\juanc\source\repos\desafio4 S6\bin\Debug\net6.0\desafio4 S6.runtimeconfig.json
+C:\Users\juanc\source\repos\desafio4 S6\bin\Debug\net6.0\desafio4 S6.dll
+C:\Users\juanc\source\repos\desafio4 S6\bin\Debug\net6.0\desafio4 S6.pdb
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.csproj.AssemblyReference.cache
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.AssemblyInfoInputs.cache
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.AssemblyInfo.cs
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.dll
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\refint\desafio4 S6.dll
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.pdb
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\desafio4 S6.genruntimeconfig.cache
+C:\Users\juanc\source\repos\desafio4 S6\obj\Debug\net6.0\ref\desafio4 S6.dll
